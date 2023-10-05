@@ -1,0 +1,16 @@
+name: seo_webscraper
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - requests
+  - beautifulsoup4
+  - pandas
+  - selenium
+  - lxml
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - newspaper3k
